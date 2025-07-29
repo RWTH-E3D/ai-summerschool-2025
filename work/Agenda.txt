@@ -1,0 +1,31 @@
+Mo:  
+    > 9-11: Introduction, Program, DockerInstallation
+    > 11:15- 12:00: Warm Up Excercises (MaSh)
+    
+    > 13:15 - 16: Presentation basics, MissData (AnL)
+
+Di:
+    > 9:12: Presentation Autoencoder, MissData with Autoencoder
+    > 12:00-16:00: Solution; Quizz
+    
+We:
+    > 9:12: Presentation DL-based qualtity control (ClL)
+            Demonstration DL-based Quality Control
+    >12-16: Excercise (ClL)
+    >16-17: Outlook: Yolo model presentation, controling cobots with language (ClL)
+    
+    
+Th:
+    > 9-12: Introduction to Computer Vision with Excercise (ChE)
+    > 12-16: Presenation Introduction (ClL) to ML, DL, CNN, Excercise, Quiz
+    
+Fr: 
+    > 9-12: Presentation (ChE) Excercise CNN completion, Yolo Model presentation (ClL) 
+    > Excercise CNN completeion, Confusion plots, Quiz
+    
+
+To Do.: 
+    > oragniseEduroam Guest Log-In 
+    > Translate Julius Presentation to English
+    > Review the Quiz question
+    > Review Introduction slides

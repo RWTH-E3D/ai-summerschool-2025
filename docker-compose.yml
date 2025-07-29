@@ -1,0 +1,12 @@
+services:
+  jupyter:
+    build: .
+    restart: always
+    environment:
+      - TZ=Europe/Berlin
+      - JUPYTER_TOKEN=e3d
+    ports:
+      - 8888:8888
+    volumes:
+      - ./work:/home/jovyan/work
+
