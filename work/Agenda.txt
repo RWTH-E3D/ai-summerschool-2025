@@ -1,31 +1,48 @@
-Mo:  
-    > 9-11: Introduction, Program, DockerInstallation
-    > 11:15- 12:00: Warm Up Excercises (MaSh)
+Mon.:  
+    > 09:00 - 11:00 Introduction, Docker Installation
+    > 11:15 - 12:45 Warm-Up: Data Visualisation
     
-    > 13:15 - 16: Presentation basics, MissData (AnL)
+    Lunch at LuCa
+    
+    > 14:00 - 14:20 Presentation on Missing Data Handling
+    > 14:20 - 17:00 Algorithms for Missing Data Imputations
 
-Di:
-    > 9:12: Presentation Autoencoder, MissData with Autoencoder
-    > 12:00-16:00: Solution; Quizz
+Tue.:
+    > 09:00 - 10:00 Presentation on Autoencoders
+    > 10:15 - 12:45 Building an Autoencoder I
     
-We:
-    > 9:12: Presentation DL-based qualtity control (ClL)
-            Demonstration DL-based Quality Control
-    >12-16: Excercise (ClL)
-    >16-17: Outlook: Yolo model presentation, controling cobots with language (ClL)
+    Lunch at Gretchen
     
+    > 14:00 - 16:45 Building an Autoencoder II
+    > 16:45 - 17:00 Quiz
     
-Th:
-    > 9-12: Introduction to Computer Vision with Excercise (ChE)
-    > 12-16: Presenation Introduction (ClL) to ML, DL, CNN, Excercise, Quiz
-    
-Fr: 
-    > 9-12: Presentation (ChE) Excercise CNN completion, Yolo Model presentation (ClL) 
-    > Excercise CNN completeion, Confusion plots, Quiz
-    
+Wed.:
+    > 09:00 - 09:30 Introduction to CNNs
+    > 09:30 - 12:45 Computer Vision
 
-To Do.: 
-    > oragniseEduroam Guest Log-In 
-    > Translate Julius Presentation to English
-    > Review the Quiz question
-    > Review Introduction slides
+    Lunch at LuCa
+
+    > 14:00 - 15:00 Compuletion of Computer Vision Excercises
+    > 15:15 - 15:45 Presentation of DL-based Quality Control in Robotik Tasks
+    > 16:00 - 17:00 FutureLAB Tour und Hallenführung
+    
+Thu.:
+    > 09:00 - 09:20 Quiz
+    > 09:20 - 10:00 Presentation on Semantic Enrichment of Building Information Models via Deep Learning
+    > 09:20 - 12:45 CNNs for BIM Object Classification Part I
+    
+    Lunch at Gretchen
+
+    > 14:00 - 16:00 CNNs for BIM Object Classification Part II  
+    > 16:15 - 16:45 Presentation on Applying YOLO Models to Robotic Vision Tasks
+    > 16:45 - 17:00 Quiz
+    
+Fri.: 
+    > 09:00 - 09:20 Introduction of the KECRA Framework
+    > 09:20 - 12:45 CNNs for Time-Series Data Part I
+    
+    Lunch at LuCa
+
+    > 14:00 - 16:00 CNNs for Time-Series Data Part II
+    > 16:00 -       Closing Session
+    
