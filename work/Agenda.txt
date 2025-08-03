@@ -29,7 +29,7 @@ Wed.:
 Thu.:
     > 09:00 - 09:20 Quiz
     > 09:20 - 10:00 Presentation on Semantic Enrichment of Building Information Models via Deep Learning
-    > 09:20 - 12:45 CNNs for BIM Object Classification Part I
+    > 10:15 - 12:45 CNNs for BIM Object Classification Part I
     
     Lunch at Gretchen
 
